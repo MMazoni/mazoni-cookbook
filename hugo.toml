@@ -1,0 +1,18 @@
+baseURL = 'https://example.org/'
+languageCode = 'pt-br'
+defaultContentLanguage = 'pt-br'
+title = 'Mazoni Cookbook'
+theme = "PaperMod"
+
+
+[frontmatter]
+date = [":date", ":default"]
+
+[Languages]
+[Languages.pt-br]
+  languageCode = "pt-br"
+  languageName = "Português"
+  weight = 1
+  [Languages.pt-br.params]
+    dateFormat = "2 de January de 2006" # Exemplo: 1 de março de 2025
+    timeZone = "America/Sao_Paulo"
