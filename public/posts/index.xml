@@ -2,18 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Mazoni Cookbook</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://example.org/posts/</link>
     <description>Recent content in Posts on Mazoni Cookbook</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 01 Mar 2025 17:39:47 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primeiro Post</title>
-      <link>http://localhost:1313/posts/primeiro-post/</link>
+      <link>https://example.org/posts/primeiro-post/</link>
       <pubDate>Sat, 01 Mar 2025 17:39:47 -0300</pubDate>
-      <guid>http://localhost:1313/posts/primeiro-post/</guid>
-      <description></description>
+      <guid>https://example.org/posts/primeiro-post/</guid>
+      <description>&lt;p&gt;Já faz algum tempo que tenho vontade de aprender realmente como cozinhar e não ser apenas um copiador de receitas, e as vezes nem sai do jeito correto.&lt;/p&gt;
+&lt;p&gt;Eu quero aprender as técnicas para entender o que está acontecendo quando misturamos certos alimentos, aquecemos, resfriamos, toda essa manipulação feita na cozinha.&lt;/p&gt;
+&lt;p&gt;Sempre fui fã de Química, isso também vai ser um resgate do meu eu adolescente que um dia tinha o sonho de trabalhar com isso.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
